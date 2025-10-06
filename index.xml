@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LOBSTAR. Web Patform SAAS Development – Milton Keynes on LOBStar</title>
+    <link>https://lobstar-devman.github.io/</link>
+    <description>Recent content in LOBSTAR. Web Patform SAAS Development – Milton Keynes on LOBStar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lobstar-devman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://lobstar-devman.github.io/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>https://lobstar-devman.github.io/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/post/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://lobstar-devman.github.io/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://lobstar-devman.github.io/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://lobstar-devman.github.io/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lobstar-devman.github.io/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/about-me/</guid>
+      <description>&lt;h1 id=&#34;tim&#34;&gt;Tim&lt;/h1&gt;&#xA;&lt;p&gt;DevOps, Cloud Solutions, Programming.&lt;/p&gt;&#xA;&lt;p&gt;35 Years experience:&lt;/p&gt;&#xA;&lt;p&gt;C, C++, Javascript, NodeJS, PHP, Python, SQL/NoSQL.&lt;/p&gt;&#xA;&lt;p&gt;AWS.&lt;/p&gt;&#xA;&lt;p&gt;PayPal, Stripe payment processors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lobstar-devman.github.io/b2c-ecommerce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/b2c-ecommerce/</guid>
+      <description>&lt;h1 id=&#34;e-commerce&#34;&gt;E-Commerce&lt;/h1&gt;&#xA;&lt;figure class=&#34;ma0 w-75&#34;&gt;&lt;a href=&#34;https://awardbox.com&#34;&gt;&lt;img src=&#34;https://lobstar-devman.github.io/images/awardbox_logo.png&#34;&#xA;    alt=&#34;AwardBox - Free Certificate Templates&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Simple to create, great looking award certificates, every template is printable and free for unlimited use.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lobstar-devman.github.io/cpq-platforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/cpq-platforms/</guid>
+      <description>&lt;h1 id=&#34;costpricequote-platforms&#34;&gt;Cost/Price/Quote Platforms&lt;/h1&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;section id=&#34;portfolio&#34; class=&#34;py-8 xl:py-16&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;container mx-auto px-4&#34;&gt;&#xD;&#xA;    &#xD;&#xA;      &lt;div class=&#34;grid xl:grid-cols-2 xl:gap-8&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;xl:order-2 flex flex-col items-center justify-center&#34;&gt;&#xD;&#xA;          &#xD;&#xA;            &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;img&#xD;&#xA;  src=&#34;https://lobstar-devman.github.io/images/calc.png&#34;&#xD;&#xA;  width=&#34;292&#34;&#xD;&#xA;  height=&#34;126&#34;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  alt=&#34;map[src:images/calc.png]&#34;&#xD;&#xA;/&gt;&#xD;&#xA;&#xD;&#xA;          &#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;flex flex-col justify-center&#34;&gt;&#xD;&#xA;          &#xD;&#xA;            &lt;p class=&#34;text-secondary mb-2 text-center font-bold xl:text-start&#34;&gt;Complex Sale Support&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lobstar-devman.github.io/how-i-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/how-i-work/</guid>
+      <description>&lt;h1 id=&#34;lobstar&#34;&gt;LOBSTAR&lt;/h1&gt;&#xA;&lt;p&gt;LOBSTAR is my Open Source / freelancing brand.&lt;/p&gt;&#xA;&lt;p&gt;I also co-own Alinea Interactive LTD, a small software developer company that has been providing software solutions since 2007 with a reputation for creative approaches to complex issues in the print and creative industries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lobstar-devman.github.io/lets-talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/lets-talk/</guid>
+      <description>&lt;h1 id=&#34;lets-talk&#34;&gt;Let&amp;rsquo;s Talk&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfwD90av1alHNDE_9kqikZuExKcTDLTG5FVJ69bNO0nWh1fXQ/viewform?embedded=true&#34; width=&#34;640&#34; height=&#34;1000&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;Loading…&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lobstar-devman.github.io/marcomms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/marcomms/</guid>
+      <description>&lt;h1 id=&#34;marcomms&#34;&gt;Marcomms&lt;/h1&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;section id=&#34;portfolio&#34; class=&#34;py-8 xl:py-16&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;container mx-auto px-4&#34;&gt;&#xD;&#xA;    &#xD;&#xA;      &lt;div class=&#34;grid xl:grid-cols-2 xl:gap-8&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;xl:order-2 flex flex-col items-center justify-center&#34;&gt;&#xD;&#xA;          &#xD;&#xA;            &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;img&#xD;&#xA;  src=&#34;https://lobstar-devman.github.io/images/selfie.png&#34;&#xD;&#xA;  width=&#34;292&#34;&#xD;&#xA;  height=&#34;126&#34;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  alt=&#34;map[src:images/selfie.png]&#34;&#xD;&#xA;/&gt;&#xD;&#xA;&#xD;&#xA;          &#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;flex flex-col justify-center&#34;&gt;&#xD;&#xA;          &#xD;&#xA;            &lt;p class=&#34;text-secondary mb-2 text-center font-bold xl:text-start&#34;&gt;Event Management&lt;/p&gt;&#xD;&#xA;          &#xD;&#xA;          &#xD;&#xA;            &lt;h1 class=&#34;text-primary mb-4 text-center text-4xl font-bold xl:text-start&#34;&gt;Selfie Postcards&lt;/h1&gt;&#xD;&#xA;          &#xD;&#xA;          &#xD;&#xA;            &lt;p class=&#34;mb-6 text-center xl:text-start&#34;&gt;Capture the moment and share through social media. Carries corporate support multimeda. Promotional events. Visitor Attractions. Corporate days.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lobstar-devman.github.io/open-source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/open-source/</guid>
+      <description>&lt;h1 id=&#34;open-source&#34;&gt;Open Source&lt;/h1&gt;&#xA;&lt;figure class=&#34;ma0&#34;&gt;&lt;a href=&#34;https://lobstar-devman.github.io/noSheetWebsite&#34;&gt;&lt;img src=&#34;https://lobstar-devman.github.io/images/nosheet.png&#34;&#xA;    alt=&#34;noSheet - Javascript library&#34;&gt;&lt;/a&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;A JavaScript alternative to HSL’s (Horrible Spreadsheet Libraries)&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;NoSheet is a fast open-source headless calculation engine designed to replace JavaScript spreadsheet libraries.&#xA;&lt;a href=&#34;https://github.com/lobstar-devman/noSheet&#34;&gt;Go to the GitHub repo&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lobstar-devman.github.io/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/pricing/</guid>
+      <description>&lt;h1 id=&#34;how-long-is-a-piece-of-string&#34;&gt;How Long Is A Piece of String?&lt;/h1&gt;&#xA;&lt;p&gt;Our piece of string has a finite length.&lt;/p&gt;&#xA;&lt;p&gt;We work on on fixed timescale, fixed cost project basis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lobstar-devman.github.io/sales-enablement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/sales-enablement/</guid>
+      <description>&lt;h1 id=&#34;sales-enablement&#34;&gt;Sales Enablement&lt;/h1&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;section id=&#34;portfolio&#34; class=&#34;py-8 xl:py-16&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;container mx-auto px-4&#34;&gt;&#xD;&#xA;    &#xD;&#xA;      &lt;div class=&#34;grid xl:grid-cols-2 xl:gap-8&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;xl:order-2 flex flex-col items-center justify-center&#34;&gt;&#xD;&#xA;          &#xD;&#xA;            &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;img&#xD;&#xA;  src=&#34;https://lobstar-devman.github.io/images/getfit.png&#34;&#xD;&#xA;  width=&#34;400&#34;&#xD;&#xA;  height=&#34;299&#34;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  alt=&#34;map[src:images/getfit.png]&#34;&#xD;&#xA;/&gt;&#xD;&#xA;&#xD;&#xA;          &#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;flex flex-col justify-center&#34;&gt;&#xD;&#xA;          &#xD;&#xA;            &lt;p class=&#34;text-secondary mb-2 text-center font-bold xl:text-start&#34;&gt;Complex Sale Support&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://lobstar-devman.github.io/web-platform-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lobstar-devman.github.io/web-platform-development/</guid>
+      <description>&lt;h1 id=&#34;web-platform-development&#34;&gt;Web Platform Development&lt;/h1&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;section id=&#34;portfolio&#34; class=&#34;py-8 xl:py-16&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;container mx-auto px-4&#34;&gt;&#xD;&#xA;    &#xD;&#xA;      &lt;div class=&#34;grid xl:grid-cols-2 xl:gap-8&#34;&gt;&#xD;&#xA;        &lt;div class=&#34;xl:order-2 flex flex-col items-center justify-center&#34;&gt;&#xD;&#xA;          &#xD;&#xA;            &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;img&#xD;&#xA;  src=&#34;https://lobstar-devman.github.io/images/calc.png&#34;&#xD;&#xA;  width=&#34;292&#34;&#xD;&#xA;  height=&#34;126&#34;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  alt=&#34;map[src:images/calc.png]&#34;&#xD;&#xA;/&gt;&#xD;&#xA;&#xD;&#xA;          &#xD;&#xA;        &lt;/div&gt;&#xD;&#xA;        &lt;div class=&#34;flex flex-col justify-center&#34;&gt;&#xD;&#xA;          &#xD;&#xA;            &lt;p class=&#34;text-secondary mb-2 text-center font-bold xl:text-start&#34;&gt;Complex Sale Support&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
